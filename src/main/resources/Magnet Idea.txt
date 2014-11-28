@@ -1,0 +1,12 @@
+Magnet mode item which drags ALL item towards you
+
+Drags items to player
+Drags entities to player
+Drags player to item/entity
+
+Early game
+- Spend XP as energy
+- less XP = unstable (attract anything or with velocity for damage)
+-- Homing arrows
+-- Arrow misses and skeleton is thrown at you :P
+
