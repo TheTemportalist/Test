@@ -1,5 +1,17 @@
 *.class
 *.log
+.gradle
+build
+idea
+jars
+*.iml
+*.ipr
+*.iws
+
+# Package Files #
+*.jar
+*.war
+*.ear
 
 # sbt specific
 .cache/
@@ -16,9 +28,13 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 
-.gradle
-eclipse
-output
-test
-run
-run_server
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
